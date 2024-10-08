@@ -1,0 +1,65 @@
+{
+    "Team Lead": {
+        "company": "acesoftex",
+        "location": "India",
+        "job_type": "Team Lead",
+        "exp_needed": null,
+        "eligibility_criteria": "Minimum 1+ years experience in IT Industry\nGood negotiation skills\nExcellent communication skills and organization skills\nExtreme attention to detail, very thorough\nMust be pro-active\nTakes initiative and motivated",
+        "job_description": "Responsible for project execution from data receive to data delivery to the client\nTo manage team of data analysts and look after their productivity, quality, training etc.\nHandling technical queries of team member and raise technical issues for client pursuant\nCommunication with client and with other department in the company\nProvide project training to new team members",
+        "posted_before": null
+    },
+    "Data Analysts/HTML Editor": {
+        "company": "acesoftex",
+        "location": "India",
+        "job_type": "Data Analysts/HTML Editor",
+        "exp_needed": null,
+        "eligibility_criteria": "Fresher can apply\nProject Training will be given by company",
+        "job_description": "Need to work in shift hours, first shift (6:30a to 2:30p) for female and (2:30p to 10:30p) second shift for male\nWork involves XML or ePub (HTML+CSS) creation from various documents and editing of PDF file using  Acrobat\nProject training will be given by the company. At the completion of training, a test shall be conducted to check eligibility of candidate for the employment.",
+        "posted_before": null
+    },
+    "Quality Analyst": {
+        "company": "acesoftex",
+        "location": "India",
+        "job_type": "Quality Analyst",
+        "exp_needed": null,
+        "eligibility_criteria": "Fresher can apply (similar experience will be considered as an added advantage)\nProject Training will be given by company",
+        "job_description": "Need to work in shift hours, first shift (6:30a to 2:30p) for female and (2:30p to 10:30p) second shift for male\nBasic knowledge of XML, PDF and ePub (HTML+CSS) is appreciated.\nGood written english for communication and reporting with teams.\nAnalytic skills to evaluate and find errors according to project specification.\nProject training will be given by the company. At the completion of training, a test shall be conducted to check eligibility of candidate for the employment.",
+        "posted_before": null
+    },
+    "Data Management Executive": {
+        "company": "acesoftex",
+        "location": "India",
+        "job_type": "Data Management Executive",
+        "exp_needed": null,
+        "eligibility_criteria": "Good professional english writing\nGood exposure to MS Office (Excel, Word)\nGood exposure to General Software (Adobe Acrobat, Photoshop and imaging software)\nAbility to work on multiple project and tight turn around schedule\nSelf running and believer in team work\nGood analytical skill",
+        "job_description": "Need to work in shift hours (10:00a to 6:30p) for female and (2:30p to 10:30p) second shift for male\nThe logistics assistant will be responsible for receiving data from customer, completing relevant entries in in-house ERP and dispatching delivery data to customer.\nLogistic Assistant should also maintain project records and communication with internal department and customer.\nCommunication with client and with other department in the company.\nProject training will be given by the company. At the completion of training, a test shall be conducted to check eligibility of candidate for the employment.",
+        "posted_before": null
+    },
+    "Data Entry Operator": {
+        "company": "acesoftex",
+        "location": "India",
+        "job_type": "Data Entry Operator",
+        "exp_needed": null,
+        "eligibility_criteria": "Minimum typing speed shoud be 25 WPM with good accuracy.\nGood exposure on English reading.\nBasic knowledge of Windows and MS Office.\nAbility to work on multiple project and tight turn around schedule.\nSelf running and believer in team work",
+        "job_description": "Need to work in general shift hours\nRegularity in office hours.\nAccurate typing skill and learning attitude.\nProject training will be given by the company. At the completion of training, a test shall be conducted to check eligibility of candidate for the employment.",
+        "posted_before": null
+    },
+    "Receptionist": {
+        "company": "acesoftex",
+        "location": "India",
+        "job_type": "Receptionist",
+        "exp_needed": null,
+        "eligibility_criteria": "Basic knowledge of Windows and MS Office.\nExcellent communication skill\nFresher can apply\nMulti-tasking",
+        "job_description": "Need to work in general shift hours (Female only)\nRegularity in office hours.",
+        "posted_before": null
+    },
+    "IT Executive": {
+        "company": "acesoftex",
+        "location": "India",
+        "job_type": "IT Executive",
+        "exp_needed": null,
+        "eligibility_criteria": "2 to 4 years",
+        "job_description": "Troubleshooting network and system problems and solving hardware and application Issues reported by user.\nHands on experience in server & storage infra management\nScheduled & Manual backup of server & user data.\nSetup, configure, maintain, upgrade NetBackup server/client and tape libraries\nMonitor daily NetBackup activity and reporting to proactively avoid issues\nSolving complicated Hardware cases and Liaising with Hardware Vendor\nGood Understanding of Windows Active directory server, Linux servers\nManagement of Active Directory and Group policies.\nManage & Maintain DNS/DHCP Infrastructure\nIT Asset management and regular check-up of desktop, laptop & server.\nPerform server maintenance and operational procedures.\nDevelop and maintain standard operating procedures and documentation adhering to industry best practices.\nExecute IT Projects\nIdentify the need for upgrades, configurations or new systems and report the same.",
+        "posted_before": null
+    }
+}
